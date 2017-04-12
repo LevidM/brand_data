@@ -173,3 +173,75 @@ footer{
 .icon_green{
 	color: #09bb07;
 }
+
+/* templet1 */
+
+.reward1-bg{
+	width: 750px;
+	height: 1200px;
+	overflow: hidden;
+	margin:0 auto;
+	background: url(../img/templet/1.png);
+	text-align: center;
+	font-size: 24px;
+	line-height: 1.5em;
+	color: #000;
+}
+
+.reward-mes1{
+	position: relative;
+	top:570px;
+	padding: 0 3em;
+}
+
+.reward-mes1 li{
+	margin-bottom: 0.5em;
+}
+
+.reward-mes2{
+	position: relative;
+	top:630px;
+}
+
+/* templet2 */
+.reward2-bg{
+	width: 750px;
+	height: 1200px;
+	overflow: hidden;
+	margin:0 auto;
+	background: url(../img/templet/2.png);
+	text-align: center;
+	font-size: 24px;
+	line-height: 1.5em;
+	color: #000;
+}
+
+.reward-mes3{
+	position: relative;
+	top:600px;
+	padding: 0 3em;
+	font-size: 36px
+}
+
+.reward-mes3 li{
+	margin-bottom: 0.5em;
+}
+
+.reward-mes4 {
+	position: relative;
+	top:680px;
+}
+
+
+/* templet3 */
+.reward3-bg{
+	width: 750px;
+	height: 1200px;
+	overflow: hidden;
+	margin:0 auto;
+	background: url(../img/templet/3.png);
+	text-align: center;
+	font-size: 24px;
+	line-height: 1.5em;
+	color: #000;
+}
