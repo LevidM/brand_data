@@ -12,7 +12,6 @@ ul li{
 	list-style: none;
 }
 
-
 .left{ float:left;}
 .right{ float:right;}
 
@@ -194,7 +193,7 @@ footer{
 	padding: 0 3em;
 }
 
-.reward-mes1 li{
+.reward-mes1 div{
 	margin-bottom: 0.5em;
 }
 
@@ -223,7 +222,7 @@ footer{
 	font-size: 36px
 }
 
-.reward-mes3 li{
+.reward-mes3 div{
 	margin-bottom: 0.5em;
 }
 
